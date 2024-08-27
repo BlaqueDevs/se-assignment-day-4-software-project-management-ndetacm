@@ -26,6 +26,6 @@ By giving out a summary, briefly introducing your software solution and also use
 ## 11. What are the main features or functionalities that make your software stand out?
 Visuals for example charts, diagrams, images
 ## 12. What data is available regarding the market size and growth potential for your software?
-Current data
+Market trends, growth rate, competitive analysis
 ## 13. How can understanding market trends inform your software’s positioning and development?
 It helps your software to be up-to-date and deal with current trends and recent developments
